@@ -30,7 +30,7 @@ Pengguna = Menjual obat yang diperlukan pasien = Memudahkan memberi akses untuk 
 Analysis : Struktur Data
 1. Pengguna
    - Login
-   - Sambungkan internet
+   - Sambungkan internet 
    - Masukkan data barang yang ingin dibeli
    - Rekomendasi diberikan
 2. Sistem
