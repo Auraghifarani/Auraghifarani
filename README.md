@@ -38,9 +38,10 @@ Analysis : Struktur Data
    - Memberikan rekomendasi
   
 Design : Arsitektur berbasis client-server 
-- Database : MySQL
+- Database : 
 - Aplikasi Web Backend : VS Code
 - Web Server : VS Code
 - Aplikasi Android & Iphone : 
 
+Design : User Experience (UX) Design
 
