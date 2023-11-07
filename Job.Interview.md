@@ -30,16 +30,18 @@ User experience theme:
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
-Admin | Mengakses data user  | Bisa update data user dan menghapus data user | ⭐⭐⭐⭐⭐
+Admin | Mengakses data admin  | Bisa mengedit dan menghapus data admin | ⭐⭐⭐⭐⭐
 Admin | Mengakses data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
-Admin | Upload Product  | Banyak product yang bisa dipilih user  | ⭐⭐⭐⭐⭐
-Admin | Edit Product  | Bisa merubah harga, deskripsi, nama product | ⭐⭐⭐⭐⭐
-Admin | Hapus Product  | Bisa menghapus product | ⭐⭐⭐⭐⭐
-Pengguna | Melihat semua product | Mendapatkan banyak piliha furnitur  | ⭐⭐⭐⭐
-Pengguna | Melihat detail furnitur | Bisa meliahat deskripsi lengkap furnitur  | ⭐⭐⭐⭐
-Pengguna | Menyimpan furnitur yang akan dibeli didalam keranjang | Dapat memilih kembali furnitur sebelum di checkout  | ⭐⭐⭐⭐
-Pengguna | Memilih jasa kirim | Bisa menyesuaikan dengan jasa kirim yang diinginkan  | ⭐⭐⭐
+Admin | Upload Produk  | Produk yang bisa dipilih user atau pelanggan semakin banyak dan bervarian | ⭐⭐⭐⭐⭐
+Admin | Edit Produk  | Bisa merubah harga, deskripsi, nama produk, dan diskon pada produk | ⭐⭐⭐⭐⭐
+Admin | Hapus Produk  | Bisa menghapus produk | ⭐⭐⭐⭐⭐
+Admin | Muncul notifikasi Produk  | Mendapatkan notifikasi apaabila terdapat produk yang dipesan | ⭐⭐⭐⭐⭐
+Pengguna | Mengakses data pengguna | Bisa mengisi nama lengkap, usia, no.telp, dan alamat antar  | ⭐⭐⭐⭐
+Pengguna | Melihat semua produk | Mendapatkan banyak pilihan produk  | ⭐⭐⭐⭐
+Pengguna | Melihat detail produk | Bisa meliahat deskripsi lengkap produk  | ⭐⭐⭐⭐
+Pengguna | Menyimpan produk yang akan dibeli didalam MyHealthBox | Dapat memilih kembali produk sebelum di checkout  | ⭐⭐⭐⭐
 Pengguna | Memilih Media Pembayaran | Bisa menyesuaikan payment yang dipunya  | ⭐⭐⭐⭐⭐
+
 
 
 ## 3. Struktur Data
