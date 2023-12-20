@@ -60,14 +60,21 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 
 ## 4. Arsitektur Sistem
 
-```mermaid
 
 
-```
 
 ## 5. Teknologi, Library, dan Framework
+- UI/UX Design : Canva 
+- Web Server   : Apache
+- Text Editor  : VS Code
+- Library      : 
+- Framework    : 
+- Database     : MySQL
 
-  
+1. **UI/UX Design : Canva**
+  -**Pengertian** UI (User Interface) adalah tampilan visual sebuah produk yang menghubungkan sistem dengan pengguna. Sistem ini bisa berupa website, aplikasi, atau yang lainnya. Tampilannya meliputi bentuk, warna, dan tulisan yang dibuat semenarik mungkin.
+  -**Peran** adalah sebuah platform desain grafis online yang dapat digunakan oleh siapa saja untuk membuat desain grafis yang menarik dan berkualitas. Canva menyediakan berbagai fitur, template, font dan efek visual yang memudahkan penggunanya berkreasi.
+2. **Web Server : Apache**
 
 ## 6. Desain User Experience dan User Interface
 
