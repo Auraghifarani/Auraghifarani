@@ -30,17 +30,29 @@ User experience theme:
 
 sebagai | saya ingin bisa | sehingga | prioritas
 ---|---|---|---
+Admin | Mengelola data user | Bisa mengupdate dan menghapus data user |  ⭐⭐⭐⭐⭐
 Admin | Mengakses data admin  | Bisa mengedit dan menghapus data admin | ⭐⭐⭐⭐⭐
 Admin | Mengakses data transaksi  | Bisa melihat detail transaksi dan mengubah status transaksi | ⭐⭐⭐⭐⭐
+Admin | Mengelola produk | Bisa memberikan informasi mengenai produk serta terus memberikan produk terbaru |  ⭐⭐⭐⭐⭐
 Admin | Upload Produk  | Produk yang bisa dipilih user atau pelanggan semakin banyak dan bervarian | ⭐⭐⭐⭐⭐
 Admin | Edit Produk  | Bisa merubah harga, deskripsi, nama produk, dan diskon pada produk | ⭐⭐⭐⭐⭐
 Admin | Hapus Produk  | Bisa menghapus produk | ⭐⭐⭐⭐⭐
-Admin | Muncul notifikasi Produk  | Mendapatkan notifikasi apaabila terdapat produk yang dipesan | ⭐⭐⭐⭐⭐
+Admin | Menerima notifikasi Produk  | Mendapatkan notifikasi apabila terdapat produk yang dipesan | ⭐⭐⭐⭐⭐
+Admin | Memberikan diskon produk | Pelanggan mendapatkan potongan harga dengan ketentuan tertentu |  ⭐⭐⭐⭐⭐
+Admin | Mengelola sistem keamanan | Bisa menjaga keamanan pelanggan |  ⭐⭐⭐⭐⭐
+Admin | Mengelola stok produk | Bisa memberikan informasi mengenai jumlah produk yang tersedia |  ⭐⭐⭐⭐⭐
+Admin | Memeberikan pelayanan pada pelanggan | Bisa merespon pelanggan dan memenuhi kebutuhan pelanggan |  ⭐⭐⭐⭐⭐
+Admin | Mengelola jasa kirim | Bisa mengirim produk sesuai dengan rekomendasi pelanggan |  ⭐⭐⭐⭐⭐
+Admin | Menerima ulasan | Bisa memperbaiki apabila produk kurang sesuai dengan keinginan pelanggan | ⭐⭐⭐⭐⭐
 Pengguna | Mengakses data pengguna | Bisa mengisi nama lengkap, usia, no.telp, dan alamat antar  | ⭐⭐⭐⭐
 Pengguna | Melihat semua produk | Mendapatkan banyak pilihan produk  | ⭐⭐⭐⭐
 Pengguna | Melihat detail produk | Bisa meliahat deskripsi lengkap produk  | ⭐⭐⭐⭐
 Pengguna | Menyimpan produk yang akan dibeli didalam MyHealthBox | Dapat memilih kembali produk sebelum di checkout  | ⭐⭐⭐⭐
 Pengguna | Memilih Media Pembayaran | Bisa menyesuaikan payment yang dipunya  | ⭐⭐⭐⭐⭐
+Pengguna | Memilih Jasa Kirim | Bisa memilih jasa kirim sesuai kemauan |  ⭐⭐⭐⭐⭐
+Pengguna | Menegetahui jumlah stok | Bisa memilih produk sesuai dengan jumlah yang diinginkan serta menghindari ketidaktersediaan produk | ⭐⭐⭐⭐⭐
+Pengguna | Menerima notifikasi | Bisa mendapatkan informasi mengenai pembayaran dan pemngiriman lewat notifikasi | ⭐⭐⭐⭐⭐
+Pengguna | Memberikan ulasan produk | Pelanggan bisa membandingkan kualitas produk | ⭐⭐⭐⭐⭐
 
 
 
