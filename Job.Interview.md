@@ -77,7 +77,17 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
   
   -**Peran** adalah sebuah platform desain grafis online yang dapat digunakan oleh siapa saja untuk membuat desain grafis yang menarik dan berkualitas. Canva menyediakan berbagai fitur, template, font dan efek visual yang memudahkan penggunanya berkreasi.
   
-3. **Web Server : Apache**
+2. **Web Server : Apache**
+
+   -**Pengertian** Web Server adalah perangkat lunak atau perangkat keras yang memberikan layanan data kepada pengguna internet. Web server berfungsi untuk menerima permintaan HTTP atau HTTPS dari web browser. Web browser kemudian mengirimkan respon berupa halaman web yang diminta oleh pengguna. Terhubung dengan internet dan bertukar informasi berupa data atau file.
+
+   -**Peran** Apache bertugas sebagai penghubung antara user (browser) dan server. Apache dikembangkan supaya dapat menjadi sebuah perangkat lunak web server open source yang dapat dikembangkan dan dikelola oleh modern sitem operasi seperti Unix dan Windows.
+
+3. **Database : MySQL**
+
+   -**Pengertian** Database adalah kumpulan data yang disimpan dengan sistem terntentu dan saling berhubungan sehingga bisa dikelola dengan mudah.
+
+   -**Peran** MySQL adalah sistem manajemen database relasional (RDBMS) open source berbasis SQL yang bekerja dengan mode client server. 
 
 ## 6. Desain User Experience dan User Interface
 
