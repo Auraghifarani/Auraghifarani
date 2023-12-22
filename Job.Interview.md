@@ -53,6 +53,7 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 21 | Pengguna | Menegetahui jumlah stok | Bisa memilih produk sesuai dengan jumlah yang diinginkan serta menghindari ketidaktersediaan produk | ⭐⭐⭐⭐⭐
 22 | Pengguna | Menerima notifikasi | Bisa mendapatkan informasi mengenai pembayaran dan pemngiriman lewat notifikasi | ⭐⭐⭐⭐⭐
 23 | Pengguna | Memberikan ulasan produk | Pelanggan bisa membandingkan kualitas produk | ⭐⭐⭐⭐⭐
+24 | Pengguna | Memiliki Riwayat Pesanan | Pelanggan bisa melihat produk apa saja yang sudah dibeli dan dari toko mana saja produk tersebut | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
