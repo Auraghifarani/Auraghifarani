@@ -66,10 +66,8 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 
 ## 5. Teknologi, Library, dan Framework
 - UI/UX Design : Canva 
-- Web Server   : Apache
+- Web Server : MySQL
 - Text Editor  : VS Code
-- Library      : 
-- Framework    : 
 - Database     : MySQL
 
 1. **UI/UX Design : Canva**
@@ -84,7 +82,12 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 
    -**Peran** Apache bertugas sebagai penghubung antara user (browser) dan server. Apache dikembangkan supaya dapat menjadi sebuah perangkat lunak web server open source yang dapat dikembangkan dan dikelola oleh modern sitem operasi seperti Unix dan Windows.
 
-3. **Database : MySQL**
+3. **Text Editor : VS Code**
+   -**Pengertian** Text editor adalah suatu software yang memungkinkan seseorang untuk membuka, melihat, dan mengedit file plain text atau teks biasa.
+
+   -**Peran** VS Code mendukung pengeditan kode dan berbagai bahasa pemrograman dan kerangka kerja.
+
+5. **Database : MySQL**
 
    -**Pengertian** Database adalah kumpulan data yang disimpan dengan sistem terntentu dan saling berhubungan sehingga bisa dikelola dengan mudah.
 
@@ -99,7 +102,6 @@ Details Page
 ![4](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/377b2785-e428-4430-821f-0c72a4f9b067)
 ![Teks paragraf Anda](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/1fb61699-9b62-48be-b2f0-d4348fa3176a)
 Succsess Page
-
 
 
 ## 7. Demonstrasi Video
@@ -138,7 +140,6 @@ Singkatnya, algoritma membimbing logika pemecahan masalah, struktur data menyedi
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
 
-
-
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
+  Database tentunya sangat berperan penting dalam produk teknologi yang saya kembangkan. Terutama dalam mengumpulkan data dan mengatur data menjadi sistematis. 
 
