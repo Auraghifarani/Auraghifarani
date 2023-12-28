@@ -97,13 +97,13 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 
 Landing Page 
 
-![1](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/80a34b36-46d0-4e7c-8bbf-46bcca2e6241) ![2](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/b86df8c5-8538-4cbd-b3ef-24850e192c55) ![3](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/24d6f40f-48cb-40c8-8b2a-964a4045c594)
-
-
+![1](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/80a34b36-46d0-4e7c-8bbf-46bcca2e6241) ![2](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/b86df8c5-8538-4cbd-b3ef-24850e192c55) ![3](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/24d6f40f-48cb-40c8-8b2a-964a4045c594) ![4](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/899fdd43-2142-4844-a369-cc99db3aa079)
 
 Details Page
-![4](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/377b2785-e428-4430-821f-0c72a4f9b067)
-![Teks paragraf Anda](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/1fb61699-9b62-48be-b2f0-d4348fa3176a)
+
+![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/e7baba97-84d3-4043-9ed4-563bc1cf395b) ![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/9e39e512-2767-47a7-b46b-c1b47ad85fc7) 
+
+
 Succsess Page
 
 
