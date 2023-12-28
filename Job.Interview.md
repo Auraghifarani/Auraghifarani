@@ -95,18 +95,10 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 
 ## 6. Desain User Experience dan User Interface
 
-Landing Page 
 
 ![1](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/80a34b36-46d0-4e7c-8bbf-46bcca2e6241) ![2](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/b86df8c5-8538-4cbd-b3ef-24850e192c55) ![3](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/24d6f40f-48cb-40c8-8b2a-964a4045c594) ![4](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/899fdd43-2142-4844-a369-cc99db3aa079)
 
-Details Page
-
-![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/e7baba97-84d3-4043-9ed4-563bc1cf395b) ![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/9e39e512-2767-47a7-b46b-c1b47ad85fc7) ![8](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/8ee6c35c-6836-4319-9def-5fef27e3b84f)
-
-
-
-Succsess Page
-
+![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/e7baba97-84d3-4043-9ed4-563bc1cf395b) ![7](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/3ea89f95-4dd4-4ad0-a43c-bd4be4a3e324) ![8](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/b2a15862-0cb6-4d25-9754-90ac0a92eff4) ![9](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/a689e34a-24c4-41ca-a42f-aa25d3ab6b04) ![10](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/9204762b-cc6e-4007-aff8-a89f8caba6b5) ![11](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/9ca72001-f420-477f-905d-b96c64253c50) ![12](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/240a3690-ba55-4e89-abcf-fd1797d45985)
 
 ## 7. Demonstrasi Video
 
