@@ -101,7 +101,8 @@ Landing Page
 
 Details Page
 
-![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/e7baba97-84d3-4043-9ed4-563bc1cf395b) ![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/9e39e512-2767-47a7-b46b-c1b47ad85fc7) 
+![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/e7baba97-84d3-4043-9ed4-563bc1cf395b) ![5](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/9e39e512-2767-47a7-b46b-c1b47ad85fc7) ![8](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/8ee6c35c-6836-4319-9def-5fef27e3b84f)
+
 
 
 Succsess Page
