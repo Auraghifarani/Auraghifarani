@@ -96,7 +96,9 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 ## 6. Desain User Experience dan User Interface
 
 Landing Page 
-![1](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/80a34b36-46d0-4e7c-8bbf-46bcca2e6241) ![2](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/b86df8c5-8538-4cbd-b3ef-24850e192c55) 
+
+![1](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/80a34b36-46d0-4e7c-8bbf-46bcca2e6241) ![2](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/b86df8c5-8538-4cbd-b3ef-24850e192c55) ![3](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/24d6f40f-48cb-40c8-8b2a-964a4045c594)
+
 
 
 Details Page
