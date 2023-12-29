@@ -4,11 +4,11 @@ Pada zaman yang sudah penuh dengan berbgai kecanggihan ini, kita bisa menemukan 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Our.Pharmacy adalah sebuah platform belanja online yang memungkinkan pengguna untuk menjual dan membeli berbagai jenis obat - obatan maupun alat medis yang dibutuhkan. Our.Pharmacy menawarkan berbagai jenis produk obat - obatan serta berbagai alat maupun bahan yang dibutuhkan tenaga medis serta pasien. Pengguna bisa mencari produk medis yang dibutuhkan berdasarkan jenis penyakit, gejala, atau merek. Aplikasi ini berfokus pada pemberian pengalaman mendapatkan berbagai jenis produk medis dengan praktis, nyaman dan terjamin kualitasnya dengan informasi produk yang jelas dan berkualitas, dengan gambar yang baik, serta deskripsi yang terpercaya. Tujuan utama dari aplikasi ini adalah untuk memenuhi kebutuhan konsumen dalam bidang medis dengan kualitas terjamin dan pengalaman belanja yang memuaskan secara daring. Our.Pharmacy memberikan pengalaman jual beli yang praktis serta terjamin kualitasnya. Dengan menyediakan beragam produk, inovasi teknologi medis untuk pengalaman yang lebih baik, pelayanan pelanggan yang responsif, serta fokus pada keberlanjutan dan kualitas.
+Go Medic adalah sebuah platform belanja online yang memungkinkan pengguna untuk menjual dan membeli berbagai jenis obat - obatan maupun alat medis yang dibutuhkan. Go Medic menawarkan berbagai jenis produk obat - obatan serta berbagai alat maupun bahan yang dibutuhkan tenaga medis serta pasien. Pengguna bisa mencari produk medis yang dibutuhkan berdasarkan jenis penyakit, gejala, atau merek. Aplikasi ini berfokus pada pemberian pengalaman mendapatkan berbagai jenis produk medis dengan praktis, nyaman dan terjamin kualitasnya dengan informasi produk yang jelas dan berkualitas, dengan gambar yang baik, serta deskripsi yang terpercaya. Tujuan utama dari aplikasi ini adalah untuk memenuhi kebutuhan konsumen dalam bidang medis dengan kualitas terjamin dan pengalaman belanja yang memuaskan secara daring. Go Medic memberikan pengalaman jual beli yang praktis serta terjamin kualitasnya. Dengan menyediakan beragam produk, inovasi teknologi medis untuk pengalaman yang lebih baik, pelayanan pelanggan yang responsif, serta fokus pada keberlanjutan dan kualitas.
 
 ## 1.3. Branding
 
-Merk : Our.Pharmacy
+Merk : Go Medic
 
 Tagline : "Get your health back! :)" 
 
@@ -87,7 +87,7 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 
    -**Peran** VS Code mendukung pengeditan kode dan berbagai bahasa pemrograman dan kerangka kerja.
 
-5. **Database : MySQL**
+4. **Database : MySQL**
 
    -**Pengertian** Database adalah kumpulan data yang disimpan dengan sistem terntentu dan saling berhubungan sehingga bisa dikelola dengan mudah.
 
