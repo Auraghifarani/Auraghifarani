@@ -56,14 +56,9 @@ No | sebagai | saya ingin bisa | sehingga | prioritas
 24 | Pengguna | Memiliki Riwayat Pesanan | Pelanggan bisa melihat produk apa saja yang sudah dibeli dan dari toko mana saja produk tersebut | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
-
-
-
+![image](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/6dea9dd8-a7b5-48f7-9739-f642cc5b9ab3)
 ## 4. Arsitektur Sistem
-
-
-
-
+![image](https://github.com/Auraghifarani/Auraghifarani/assets/144779697/75cd2115-a0d4-4af0-956b-b516d30160cb)
 ## 5. Teknologi, Library, dan Framework
 - UI/UX Design : Canva 
 - Web Server : MySQL
