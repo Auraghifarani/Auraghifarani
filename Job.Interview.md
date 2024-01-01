@@ -125,8 +125,12 @@ Jadi, mesin komputasi dan sistem operasi adalah fondasi yang sangat penting dala
 Singkatnya, algoritma membimbing logika pemecahan masalah, struktur data menyediakan kerangka kerja penyimpanan dan manipulasi informasi, dan bahasa pemrograman menyediakan sarana untuk mengimplementasikan algoritma dan struktur data ke dalam program yang berfungsi. Keseluruhan, kombinasi ketiganya memainkan peran penting dalam pengembangan produk teknologi informasi yang efisien, cepat, dan dapat diandalkan.
 
 ## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-
-## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
+  Metode pengembangan perangkat lunak, atau yang dikenal dengan Software Development Life Cycle (SDLC), adalah pendekatan atau proses sistematis yang digunakan untuk merancang, mengembangkan, menguji, dan memelihara perangkat lunak. SDLC berperan penting dalam pengembangan produk teknologi informasi dengan menyediakan kerangka kerja yang terstruktur untuk memastikan bahwa proyek perangkat lunak dapat dilakukan secara efisien dan efektif.
+  Tentunya berperan dalam :
+  1. perencanaan dan pengorganisasian
+  2. menganalisis kebutuhan
+  3. desain sistem
+  4. pengembangan dan pengujian
 
 ## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
   Database tentunya sangat berperan penting dalam produk teknologi yang saya kembangkan. Terutama dalam mengumpulkan data dan mengatur data menjadi sistematis. 
